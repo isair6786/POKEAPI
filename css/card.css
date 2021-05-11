@@ -10,10 +10,10 @@
 
 * {
     transition: all .2s ease;
-    font-family: "8-bits";
 }
 
 .Card-Pokemon {
+    font-family: "8-bits";
     margin: auto;
     position: relative;
     width: 300px;
